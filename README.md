@@ -1,4 +1,4 @@
-# Spring-docker
+# Spring-Boot-docker
 This application was developed to demonstrate Spring Boot with MySQL with Docker.
 
 ## Used
